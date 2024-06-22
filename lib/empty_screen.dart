@@ -7,8 +7,7 @@ class EmptyScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text(
-            'Rey tharak toraga e page develop chayyi leka pothe message chaduvuthu undu'),
+        child: Text('Rey nithin gaa idhi nene cheskovala '),
       ),
     );
   }
